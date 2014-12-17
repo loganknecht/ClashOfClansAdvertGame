@@ -1,0 +1,79 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+      <title>Clash of Clans!</title>
+      <meta charset="UTF-8" />
+      <!-- Libraries declared here -->
+      <script src="mraid.js"></script>
+      <script src="scripts/lib/phaser.min.js"></script>
+      <script src="scripts/lib/CNEventer.js"></script>
+      <!-- States declared here -->
+      <!-- <script src="scripts/states/play.js"></script> -->
+      <script src="scripts/states/Boot.js"></script>
+      <script src="scripts/states/BalloonLevel.js"></script>
+      <script src="scripts/states/GiantLevel.js"></script>
+      <script src="scripts/states/GoblinLevel.js"></script>
+      <script src="scripts/states/Preloader.js"></script>
+      <!-- Pre-fabs declared here -->
+      <script src="scripts/prefabs/Balloon.js"></script>
+      <script src="scripts/prefabs/Barbarian.js"></script>
+      <script src="scripts/prefabs/Bomb.js"></script>
+      <script src="scripts/prefabs/Cannon.js"></script>
+      <script src="scripts/prefabs/CannonBall.js"></script>
+      <script src="scripts/prefabs/CannonBallFire.js"></script>
+      <script src="scripts/prefabs/ErrorMessage.js"></script>
+      <script src="scripts/prefabs/Fader.js"></script>
+      <script src="scripts/prefabs/FortressWall.js"></script>
+      <script src="scripts/prefabs/Giant.js"></script>
+      <script src="scripts/prefabs/Goblin.js"></script>
+      <script src="scripts/prefabs/GoldBank.js"></script>
+      <script src="scripts/prefabs/GoldCoin.js"></script>
+      <script src="scripts/prefabs/GUIUnitTracker.js"></script>
+      <script src="scripts/prefabs/SmokeCloud.js"></script>
+      <script src="scripts/prefabs/Wall.js"></script>
+
+      <!-- This will remove any default settings for any html elements so that there is no margin, padding, border, and other default settings do not interfere -->
+      <style type="text/css">
+      html, body, div, span, applet, object, iframe,
+      h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+      a, abbr, acronym, address, big, cite, code,
+      del, dfn, em, img, ins, kbd, q, s, samp,
+      small, strike, strong, sub, sup, tt, var,
+      b, u, i, center,
+      dl, dt, dd, ol, ul, li,
+      fieldset, form, label, legend,
+      table, caption, tbody, tfoot, thead, tr, th, td,
+      article, aside, canvas, details, embed,
+      figure, figcaption, footer, header, hgroup,
+      menu, nav, output, ruby, section, summary,
+      time, mark, audio, video {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+      }
+      body {
+        background: #000000;
+      }
+      </style>
+  </head>
+  <body>
+    <div id="gameContainer"></div>
+
+    <script type="text/javascript">
+      var game = new Phaser.Game(1200, 800, Phaser.CANVAS, 'gameContainer');
+
+      game.state.add('Boot', Boot);
+      game.state.add('BalloonLevel', BalloonLevel);
+      game.state.add('GiantLevel', GiantLevel);
+      game.state.add('Preloader', Preloader);
+      game.state.add('GoblinLevel', GoblinLevel);
+      // game.state.start('BalloonLevel');
+      // game.state.start('GiantLevel');
+
+      game.state.start('Boot');
+    </script>
+  </body>
+</html>

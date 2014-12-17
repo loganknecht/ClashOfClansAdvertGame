@@ -1,0 +1,65 @@
+#!/usr/bin/env python
+
+from bs4 import BeautifulSoup
+import subprocess
+import os.path
+import re
+
+soup = BeautifulSoup(open('dev.html'))
+
+# inline all script tags
+for script_tag in soup.find_all('script', src=True):
+    src = script_tag.get('src')
+    # strip out any weinre or livereload tags
+    if src.find('target-script-min.js') != -1 or src.find('livereload.js') != -1:
+        script_tag.extract()
+        continue
+
+    if os.path.isfile(src):
+        out = ''
+        if src.endswith('min.js'):
+            with open(src, "r") as myfile:
+                out = myfile.read()
+                myfile.close()
+        else:
+            p = subprocess.Popen(['uglifyjs', script_tag.get('src')], stdout=subprocess.PIPE)
+            out, err = p.communicate()
+            p.stdout.close()
+
+        new_script_tag = soup.new_tag('script')
+        new_script_tag['type'] = 'text/javascript'
+        new_script_tag.string = out
+        script_tag.replace_with(new_script_tag)
+
+
+# replace all link tags with inlined CSS in style tags
+for link_tag in soup.find_all('link'):
+    href = link_tag.get('href')
+    if os.path.isfile(href):
+        p = subprocess.Popen(['cleancss', href], stdout=subprocess.PIPE)
+        out, err = p.communicate()
+        p.stdout.close()
+
+        style_tag = soup.new_tag('style')
+        style_tag.string = out
+        link_tag.replace_with(style_tag)
+
+
+html = soup.prettify(formatter=None)
+# prepend all @import statements' URLs with 'css/'
+html = re.sub(r"""(@import )(url\()?(["'])?'""", r'\1\2\3css/', html)
+# prepend all relative URLs with 'css/'
+html = re.sub(r""":url\((['"]?)""", r':url(\1css/', html)
+# just to be safe, put mraid opening and closing tags on same line
+html = re.sub(r"""<script src="mraid\.js">[^<]*</script>""", "<script src=\"mraid.js\"></script>", html)
+# finally, replace sequences of 1+ whitespace characters with a single space
+# html = re.sub(r'\s+', ' ', html)
+
+
+# the idea was to remove the spaces between tags, but it seems potentially
+# dangerous, so leaving it off for now
+# html = re.sub(r'> <', '><', html)
+
+file = open('index.html', 'w')
+file.write(html.encode('utf-8'))
+file.close()

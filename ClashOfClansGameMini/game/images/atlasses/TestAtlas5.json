@@ -1,0 +1,2500 @@
+{"frames": [
+
+{
+	"filename": "backgrounds/balloon/balloonOverlay.png",
+	"frame": {"x":332,"y":747,"w":228,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":228,"h":184},
+	"sourceSize": {"w":230,"h":190}
+},
+{
+	"filename": "backgrounds/balloon/frontfence/fenceDestroyed.png",
+	"frame": {"x":1222,"y":949,"w":101,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":19,"w":101,"h":89},
+	"sourceSize": {"w":137,"h":117}
+},
+{
+	"filename": "backgrounds/balloon/frontfence/firstPiece.png",
+	"frame": {"x":1850,"y":582,"w":57,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":2,"w":57,"h":72},
+	"sourceSize": {"w":95,"h":74}
+},
+{
+	"filename": "backgrounds/balloon/frontfence/otherPiece.png",
+	"frame": {"x":1325,"y":959,"w":95,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":95,"h":79},
+	"sourceSize": {"w":95,"h":81}
+},
+{
+	"filename": "backgrounds/giant/giantOverlay.png",
+	"frame": {"x":1018,"y":145,"w":230,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":230,"h":186},
+	"sourceSize": {"w":230,"h":190}
+},
+{
+	"filename": "backgrounds/goblin/goblinOverlay.png",
+	"frame": {"x":280,"y":933,"w":230,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":230,"h":186},
+	"sourceSize": {"w":230,"h":190}
+},
+{
+	"filename": "backgrounds/installButton.png",
+	"frame": {"x":685,"y":2,"w":357,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":357,"h":130},
+	"sourceSize": {"w":361,"h":134}
+},
+{
+	"filename": "backgrounds/installButton_down.png",
+	"frame": {"x":685,"y":134,"w":331,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":7,"w":331,"h":120},
+	"sourceSize": {"w":361,"h":134}
+},
+{
+	"filename": "backgrounds/tapOverlay.png",
+	"frame": {"x":2,"y":2,"w":681,"h":259},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":4,"w":681,"h":259},
+	"sourceSize": {"w":687,"h":263}
+},
+{
+	"filename": "backgrounds/x0.png",
+	"frame": {"x":473,"y":1166,"w":40,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":5,"w":40,"h":25},
+	"sourceSize": {"w":46,"h":35}
+},
+{
+	"filename": "backgrounds/x1.png",
+	"frame": {"x":846,"y":1165,"w":31,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":5,"w":31,"h":25},
+	"sourceSize": {"w":41,"h":35}
+},
+{
+	"filename": "backgrounds/x2.png",
+	"frame": {"x":1722,"y":544,"w":37,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":37,"h":25},
+	"sourceSize": {"w":41,"h":35}
+},
+{
+	"filename": "backgrounds/x3.png",
+	"frame": {"x":1629,"y":284,"w":37,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":5,"w":37,"h":25},
+	"sourceSize": {"w":41,"h":35}
+},
+{
+	"filename": "backgrounds/x4.png",
+	"frame": {"x":230,"y":1177,"w":39,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":39,"h":25},
+	"sourceSize": {"w":43,"h":35}
+},
+{
+	"filename": "backgrounds/x5.png",
+	"frame": {"x":2,"y":1521,"w":37,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":6,"w":37,"h":25},
+	"sourceSize": {"w":43,"h":35}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00000.png",
+	"frame": {"x":1818,"y":137,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00001.png",
+	"frame": {"x":1818,"y":137,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00002.png",
+	"frame": {"x":1818,"y":137,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00003.png",
+	"frame": {"x":1818,"y":137,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00004.png",
+	"frame": {"x":1676,"y":137,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00005.png",
+	"frame": {"x":1676,"y":137,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00006.png",
+	"frame": {"x":1676,"y":137,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00007.png",
+	"frame": {"x":1676,"y":137,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00008.png",
+	"frame": {"x":1534,"y":98,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00009.png",
+	"frame": {"x":1534,"y":98,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00010.png",
+	"frame": {"x":1534,"y":98,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00011.png",
+	"frame": {"x":1534,"y":98,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00012.png",
+	"frame": {"x":1392,"y":98,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00013.png",
+	"frame": {"x":1392,"y":98,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00014.png",
+	"frame": {"x":1392,"y":98,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00015.png",
+	"frame": {"x":1392,"y":98,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00016.png",
+	"frame": {"x":1250,"y":145,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00017.png",
+	"frame": {"x":1250,"y":145,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00018.png",
+	"frame": {"x":1250,"y":145,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00019.png",
+	"frame": {"x":1250,"y":145,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonAttack/BalloonAttack_00020.png",
+	"frame": {"x":1250,"y":145,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00000.png",
+	"frame": {"x":1664,"y":1462,"w":15,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":156,"y":41,"w":15,"h":13},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00001.png",
+	"frame": {"x":280,"y":915,"w":29,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":30,"w":29,"h":15},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00002.png",
+	"frame": {"x":1960,"y":298,"w":49,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":19,"w":49,"h":21},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00003.png",
+	"frame": {"x":1761,"y":647,"w":73,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":11,"w":73,"h":29},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00004.png",
+	"frame": {"x":1798,"y":547,"w":95,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":11,"w":95,"h":33},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00005.png",
+	"frame": {"x":1620,"y":1246,"w":115,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":17,"w":115,"h":33},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00006.png",
+	"frame": {"x":531,"y":1158,"w":129,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":27,"w":129,"h":33},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00007.png",
+	"frame": {"x":1650,"y":440,"w":137,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":19,"w":137,"h":37},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00008.png",
+	"frame": {"x":531,"y":1117,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":14,"w":149,"h":39},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00009.png",
+	"frame": {"x":512,"y":1074,"w":163,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":10,"w":163,"h":41},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00010.png",
+	"frame": {"x":1392,"y":327,"w":179,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":10,"w":179,"h":41},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00011.png",
+	"frame": {"x":280,"y":1166,"w":191,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":14,"w":191,"h":39},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00012.png",
+	"frame": {"x":562,"y":898,"w":203,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":19,"w":203,"h":39},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00013.png",
+	"frame": {"x":562,"y":857,"w":215,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":25,"w":215,"h":39},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00014.png",
+	"frame": {"x":1008,"y":531,"w":225,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":20,"w":225,"h":41},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00015.png",
+	"frame": {"x":1392,"y":284,"w":235,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":18,"w":235,"h":41},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00016.png",
+	"frame": {"x":280,"y":1121,"w":249,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":16,"w":249,"h":43},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00017.png",
+	"frame": {"x":1690,"y":94,"w":263,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":19,"w":263,"h":41},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00018.png",
+	"frame": {"x":1044,"y":100,"w":275,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":21,"w":275,"h":43},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00019.png",
+	"frame": {"x":1690,"y":49,"w":287,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":23,"w":287,"h":43},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00020.png",
+	"frame": {"x":1698,"y":2,"w":301,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":20,"w":301,"h":45},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00021.png",
+	"frame": {"x":1371,"y":49,"w":317,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":17,"w":317,"h":47},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00022.png",
+	"frame": {"x":1044,"y":51,"w":325,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":18,"w":325,"h":47},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00023.png",
+	"frame": {"x":1044,"y":2,"w":325,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":22,"w":325,"h":47},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonBombImpact/bombImpact_00024.png",
+	"frame": {"x":1371,"y":2,"w":325,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":23,"w":325,"h":45},
+	"sourceSize": {"w":325,"h":75}
+},
+{
+	"filename": "exports_animation/balloonGuyBomb.png",
+	"frame": {"x":1409,"y":1496,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":9,"w":32,"h":32},
+	"sourceSize": {"w":52,"h":50}
+},
+{
+	"filename": "exports_animation/ballooonFloat/BalloonFloat_00020.png",
+	"frame": {"x":1250,"y":145,"w":140,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":140,"h":184},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "exports_animation/barbarianAttack_01/barbarianAttackOne_00000.png",
+	"frame": {"x":1862,"y":954,"w":39,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":36,"w":39,"h":63},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_01/barbarianAttackOne_00001.png",
+	"frame": {"x":1765,"y":1046,"w":47,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":39,"w":47,"h":61},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_01/barbarianAttackOne_00002.png",
+	"frame": {"x":1710,"y":1072,"w":53,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":39,"w":53,"h":61},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_01/barbarianAttackOne_00003.png",
+	"frame": {"x":2001,"y":75,"w":45,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":34,"w":45,"h":67},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_01/barbarianAttackOne_00004.png",
+	"frame": {"x":1535,"y":1274,"w":69,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":12,"w":69,"h":89},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_01/barbarianAttackOne_00005.png",
+	"frame": {"x":1989,"y":681,"w":57,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":32,"w":57,"h":69},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_01/barbarianAttackOne_00006.png",
+	"frame": {"x":1904,"y":821,"w":61,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":33,"w":61,"h":67},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_01/barbarianAttackOne_00007.png",
+	"frame": {"x":1532,"y":1482,"w":61,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":33,"w":61,"h":67},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_01/barbarianAttackOne_00008.png",
+	"frame": {"x":1847,"y":812,"w":55,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":32,"w":55,"h":67},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_01/barbarianAttackOne_00009.png",
+	"frame": {"x":2001,"y":2,"w":45,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":28,"w":45,"h":71},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_01/barbarianAttackOne_00010.png",
+	"frame": {"x":1860,"y":881,"w":41,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":28,"w":41,"h":71},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_01/barbarianAttackOne_00011.png",
+	"frame": {"x":1762,"y":981,"w":39,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":36,"w":39,"h":63},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_02/barbarianAttackTwo_00000.png",
+	"frame": {"x":1727,"y":1135,"w":39,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":36,"w":39,"h":63},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_02/barbarianAttackTwo_00001.png",
+	"frame": {"x":1749,"y":898,"w":47,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":18,"w":47,"h":81},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_02/barbarianAttackTwo_00002.png",
+	"frame": {"x":1719,"y":1462,"w":49,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":34,"w":49,"h":65},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_02/barbarianAttackTwo_00003.png",
+	"frame": {"x":1960,"y":231,"w":49,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":34,"w":49,"h":65},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_02/barbarianAttackTwo_00004.png",
+	"frame": {"x":1960,"y":160,"w":51,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":30,"w":51,"h":69},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_02/barbarianAttackTwo_00005.png",
+	"frame": {"x":1664,"y":1387,"w":77,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":26,"w":77,"h":73},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_02/barbarianAttackTwo_00006.png",
+	"frame": {"x":1761,"y":582,"w":87,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":36,"w":87,"h":63},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_02/barbarianAttackTwo_00007.png",
+	"frame": {"x":1443,"y":1482,"w":87,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":36,"w":87,"h":67},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_02/barbarianAttackTwo_00008.png",
+	"frame": {"x":1909,"y":561,"w":83,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":36,"w":83,"h":63},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_02/barbarianAttackTwo_00009.png",
+	"frame": {"x":1903,"y":890,"w":55,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":36,"w":55,"h":63},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianAttack_02/barbarianAttackTwo_00010.png",
+	"frame": {"x":1960,"y":95,"w":39,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":36,"w":39,"h":63},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/barbarianRun/barbarianRun_00000.png",
+	"frame": {"x":1981,"y":752,"w":62,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":5,"w":62,"h":76},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRun/barbarianRun_00001.png",
+	"frame": {"x":1657,"y":1477,"w":60,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":17,"w":60,"h":72},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRun/barbarianRun_00002.png",
+	"frame": {"x":560,"y":591,"w":48,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":26,"w":48,"h":64},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRun/barbarianRun_00003.png",
+	"frame": {"x":1862,"y":1019,"w":46,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":22,"w":46,"h":60},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRun/barbarianRun_00004.png",
+	"frame": {"x":1873,"y":1081,"w":52,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":18,"w":52,"h":58},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRun/barbarianRun_00005.png",
+	"frame": {"x":1819,"y":1092,"w":52,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":22,"w":52,"h":58},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRun/barbarianRun_00006.png",
+	"frame": {"x":1710,"y":1006,"w":50,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":25,"w":50,"h":64},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRun/barbarianRun_00007.png",
+	"frame": {"x":1798,"y":893,"w":60,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":14,"w":60,"h":76},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRun/barbarianRun_00008.png",
+	"frame": {"x":1844,"y":734,"w":62,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":5,"w":62,"h":76},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunEast/barbarianRunEast_00000.png",
+	"frame": {"x":1844,"y":656,"w":62,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":5,"w":62,"h":76},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunEast/barbarianRunEast_00001.png",
+	"frame": {"x":1595,"y":1477,"w":60,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":17,"w":60,"h":72},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunEast/barbarianRunEast_00002.png",
+	"frame": {"x":560,"y":525,"w":48,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":26,"w":48,"h":64},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunEast/barbarianRunEast_00003.png",
+	"frame": {"x":1814,"y":1030,"w":46,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":22,"w":46,"h":60},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunEast/barbarianRunEast_00004.png",
+	"frame": {"x":1994,"y":621,"w":52,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":18,"w":52,"h":58},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunEast/barbarianRunEast_00005.png",
+	"frame": {"x":1994,"y":561,"w":52,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":22,"w":52,"h":58},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunEast/barbarianRunEast_00006.png",
+	"frame": {"x":1235,"y":482,"w":50,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":25,"w":50,"h":64},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunEast/barbarianRunEast_00007.png",
+	"frame": {"x":1785,"y":815,"w":60,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":14,"w":60,"h":76},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunEast/barbarianRunEast_00008.png",
+	"frame": {"x":1780,"y":678,"w":62,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":5,"w":62,"h":76},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunWest/barbarianRunWest_00000.png",
+	"frame": {"x":1967,"y":882,"w":68,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":18,"w":68,"h":50},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunWest/barbarianRunWest_00001.png",
+	"frame": {"x":1971,"y":1103,"w":54,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":24,"w":54,"h":54},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunWest/barbarianRunWest_00002.png",
+	"frame": {"x":1927,"y":1064,"w":42,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":26,"w":42,"h":58},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunWest/barbarianRunWest_00003.png",
+	"frame": {"x":1903,"y":955,"w":58,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":24,"w":58,"h":56},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunWest/barbarianRunWest_00004.png",
+	"frame": {"x":1963,"y":990,"w":58,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":20,"w":58,"h":52},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunWest/barbarianRunWest_00005.png",
+	"frame": {"x":1873,"y":1141,"w":52,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":25,"w":52,"h":54},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunWest/barbarianRunWest_00006.png",
+	"frame": {"x":1773,"y":1170,"w":46,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":26,"w":46,"h":58},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunWest/barbarianRunWest_00007.png",
+	"frame": {"x":1963,"y":934,"w":58,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":23,"w":58,"h":54},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/barbarianRunWest/barbarianRunWest_00008.png",
+	"frame": {"x":1967,"y":830,"w":68,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":18,"w":68,"h":50},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "exports_animation/cannonAmmo.png",
+	"frame": {"x":1409,"y":1530,"w":19,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":19,"h":19},
+	"sourceSize": {"w":25,"h":23}
+},
+{
+	"filename": "exports_animation/cannonDestroyed.png",
+	"frame": {"x":1222,"y":949,"w":101,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":19,"w":101,"h":89},
+	"sourceSize": {"w":137,"h":117}
+},
+{
+	"filename": "exports_animation/cannonFire/cannonFire_00001.png",
+	"frame": {"x":1927,"y":1168,"w":49,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":30,"w":49,"h":49},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFire/cannonFire_00002.png",
+	"frame": {"x":1821,"y":1211,"w":47,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":31,"w":47,"h":49},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFire/cannonFire_00003.png",
+	"frame": {"x":1910,"y":1013,"w":51,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":31,"w":51,"h":49},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFire/cannonFire_00004.png",
+	"frame": {"x":1354,"y":1496,"w":53,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":30,"w":53,"h":53},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFire/cannonFire_00005.png",
+	"frame": {"x":1803,"y":971,"w":57,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":29,"w":57,"h":57},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFire/cannonFire_00006.png",
+	"frame": {"x":1722,"y":479,"w":65,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":27,"w":65,"h":63},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFire/cannonFire_00007.png",
+	"frame": {"x":1908,"y":750,"w":71,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":24,"w":71,"h":69},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFire/cannonFire_00008.png",
+	"frame": {"x":1606,"y":1281,"w":79,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":20,"w":79,"h":79},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFire/cannonFire_00009.png",
+	"frame": {"x":1442,"y":1274,"w":91,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":17,"w":91,"h":89},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFire/cannonFire_00010.png",
+	"frame": {"x":900,"y":828,"w":111,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":111,"h":109},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFire/cannonFire_00011.png",
+	"frame": {"x":371,"y":1207,"w":125,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":123},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFire/cannonFire_00012.png",
+	"frame": {"x":637,"y":939,"w":125,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":125},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFiring/cannonFiring_00000.png",
+	"frame": {"x":1096,"y":1048,"w":125,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":18,"w":125,"h":107},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFiring/cannonFiring_00001.png",
+	"frame": {"x":754,"y":1193,"w":125,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":125,"h":111},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFiring/cannonFiring_00002.png",
+	"frame": {"x":1777,"y":323,"w":125,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":125,"h":115},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFiring/cannonFiring_00003.png",
+	"frame": {"x":1013,"y":818,"w":125,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":125,"h":119},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFiring/cannonFiring_00004.png",
+	"frame": {"x":1650,"y":323,"w":125,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":125,"h":115},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFiring/cannonFiring_00005.png",
+	"frame": {"x":841,"y":939,"w":125,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":125,"h":113},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFiring/cannonFiring_00006.png",
+	"frame": {"x":1902,"y":448,"w":125,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":125,"h":111},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFiring/cannonFiring_00007.png",
+	"frame": {"x":1096,"y":1048,"w":125,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":18,"w":125,"h":107},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonFiringSmoke/cannonFiringSmoke_00000.png",
+	"frame": {"x":1908,"y":688,"w":78,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":150,"w":78,"h":60},
+	"sourceSize": {"w":350,"h":350}
+},
+{
+	"filename": "exports_animation/cannonFiringSmoke/cannonFiringSmoke_00001.png",
+	"frame": {"x":626,"y":1193,"w":126,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":120,"w":126,"h":112},
+	"sourceSize": {"w":350,"h":350}
+},
+{
+	"filename": "exports_animation/cannonFiringSmoke/cannonFiringSmoke_00002.png",
+	"frame": {"x":824,"y":416,"w":182,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":108,"w":182,"h":158},
+	"sourceSize": {"w":350,"h":350}
+},
+{
+	"filename": "exports_animation/cannonFiringSmoke/cannonFiringSmoke_00003.png",
+	"frame": {"x":2,"y":1177,"w":226,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":63,"w":226,"h":220},
+	"sourceSize": {"w":350,"h":350}
+},
+{
+	"filename": "exports_animation/cannonFiringSmoke/cannonFiringSmoke_00004.png",
+	"frame": {"x":2,"y":915,"w":276,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":41,"w":276,"h":260},
+	"sourceSize": {"w":350,"h":350}
+},
+{
+	"filename": "exports_animation/cannonFiringSmoke/cannonFiringSmoke_00005.png",
+	"frame": {"x":2,"y":589,"w":328,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":328,"h":324},
+	"sourceSize": {"w":350,"h":350}
+},
+{
+	"filename": "exports_animation/cannonFiringSmoke/cannonFiringSmoke_00006.png",
+	"frame": {"x":1844,"y":812,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":350,"h":350}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00000.png",
+	"frame": {"x":1470,"y":479,"w":125,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":24,"w":125,"h":101},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00001.png",
+	"frame": {"x":1315,"y":1270,"w":125,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":24,"w":125,"h":101},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00002.png",
+	"frame": {"x":556,"y":1447,"w":125,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":24,"w":125,"h":101},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00003.png",
+	"frame": {"x":1095,"y":943,"w":125,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":22,"w":125,"h":103},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00004.png",
+	"frame": {"x":973,"y":576,"w":125,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":20,"w":125,"h":105},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00005.png",
+	"frame": {"x":1229,"y":574,"w":125,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":18,"w":125,"h":107},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00006.png",
+	"frame": {"x":1096,"y":1048,"w":125,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":18,"w":125,"h":107},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00007.png",
+	"frame": {"x":1523,"y":370,"w":125,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":18,"w":125,"h":107},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00008.png",
+	"frame": {"x":846,"y":1054,"w":125,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":125,"h":109},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00009.png",
+	"frame": {"x":968,"y":939,"w":125,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":125,"h":109},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00010.png",
+	"frame": {"x":968,"y":939,"w":125,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":125,"h":109},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00011.png",
+	"frame": {"x":846,"y":1054,"w":125,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":125,"h":109},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00012.png",
+	"frame": {"x":1523,"y":370,"w":125,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":18,"w":125,"h":107},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00013.png",
+	"frame": {"x":1096,"y":1048,"w":125,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":18,"w":125,"h":107},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00014.png",
+	"frame": {"x":1229,"y":574,"w":125,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":18,"w":125,"h":107},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00015.png",
+	"frame": {"x":973,"y":576,"w":125,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":20,"w":125,"h":105},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00016.png",
+	"frame": {"x":1095,"y":943,"w":125,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":22,"w":125,"h":103},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00017.png",
+	"frame": {"x":556,"y":1447,"w":125,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":24,"w":125,"h":101},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00018.png",
+	"frame": {"x":1315,"y":1270,"w":125,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":24,"w":125,"h":101},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00019.png",
+	"frame": {"x":1470,"y":479,"w":125,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":24,"w":125,"h":101},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/cannonRotation/cannonRotation_00020.png",
+	"frame": {"x":429,"y":1447,"w":125,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":24,"w":125,"h":101},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00000.png",
+	"frame": {"x":1831,"y":1429,"w":42,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":229,"w":42,"h":42},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00001.png",
+	"frame": {"x":1773,"y":1230,"w":44,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":216,"w":44,"h":44},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00002.png",
+	"frame": {"x":1727,"y":1200,"w":44,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":205,"w":44,"h":44},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00003.png",
+	"frame": {"x":1215,"y":1492,"w":42,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":194,"w":42,"h":44},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00004.png",
+	"frame": {"x":1921,"y":1219,"w":42,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":184,"w":42,"h":42},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00005.png",
+	"frame": {"x":1911,"y":1469,"w":34,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":171,"w":34,"h":44},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00006.png",
+	"frame": {"x":1875,"y":1462,"w":34,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":160,"w":34,"h":44},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00007.png",
+	"frame": {"x":1996,"y":1422,"w":34,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":149,"w":34,"h":44},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00008.png",
+	"frame": {"x":1705,"y":584,"w":54,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":139,"w":54,"h":104},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00009.png",
+	"frame": {"x":1687,"y":1281,"w":54,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":128,"w":54,"h":104},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00010.png",
+	"frame": {"x":1693,"y":898,"w":54,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":116,"w":54,"h":106},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00011.png",
+	"frame": {"x":1287,"y":466,"w":54,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":105,"w":54,"h":106},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00012.png",
+	"frame": {"x":1257,"y":1269,"w":56,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":93,"w":56,"h":108},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00013.png",
+	"frame": {"x":1602,"y":1365,"w":60,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":81,"w":60,"h":110},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00014.png",
+	"frame": {"x":1257,"y":1157,"w":62,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":70,"w":62,"h":110},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00015.png",
+	"frame": {"x":1540,"y":1365,"w":60,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":60,"w":60,"h":110},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00016.png",
+	"frame": {"x":166,"y":1399,"w":62,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":48,"w":62,"h":112},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00017.png",
+	"frame": {"x":361,"y":1447,"w":66,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":48,"w":66,"h":102},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00018.png",
+	"frame": {"x":2023,"y":934,"w":20,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":96,"w":20,"h":44},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00019.png",
+	"frame": {"x":1979,"y":49,"w":20,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":86,"w":20,"h":44},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00020.png",
+	"frame": {"x":1965,"y":1219,"w":34,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":78,"w":34,"h":42},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00021.png",
+	"frame": {"x":1960,"y":1422,"w":34,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":67,"w":34,"h":44},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00022.png",
+	"frame": {"x":2011,"y":374,"w":34,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":57,"w":34,"h":44},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/coinAnimation/coinAnimation_00023.png",
+	"frame": {"x":1927,"y":1124,"w":42,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":49,"w":42,"h":42},
+	"sourceSize": {"w":150,"h":300}
+},
+{
+	"filename": "exports_animation/generalSmokeExplosion/smokeExplosion_00000.png",
+	"frame": {"x":1909,"y":626,"w":78,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":150,"w":78,"h":60},
+	"sourceSize": {"w":350,"h":350}
+},
+{
+	"filename": "exports_animation/generalSmokeExplosion/smokeExplosion_00001.png",
+	"frame": {"x":498,"y":1193,"w":126,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":120,"w":126,"h":112},
+	"sourceSize": {"w":350,"h":350}
+},
+{
+	"filename": "exports_animation/generalSmokeExplosion/smokeExplosion_00002.png",
+	"frame": {"x":824,"y":256,"w":182,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":108,"w":182,"h":158},
+	"sourceSize": {"w":350,"h":350}
+},
+{
+	"filename": "exports_animation/generalSmokeExplosion/smokeExplosion_00003.png",
+	"frame": {"x":332,"y":525,"w":226,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":63,"w":226,"h":220},
+	"sourceSize": {"w":350,"h":350}
+},
+{
+	"filename": "exports_animation/generalSmokeExplosion/smokeExplosion_00004.png",
+	"frame": {"x":332,"y":263,"w":276,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":41,"w":276,"h":260},
+	"sourceSize": {"w":350,"h":350}
+},
+{
+	"filename": "exports_animation/generalSmokeExplosion/smokeExplosion_00005.png",
+	"frame": {"x":2,"y":263,"w":328,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":328,"h":324},
+	"sourceSize": {"w":350,"h":350}
+},
+{
+	"filename": "exports_animation/generalSmokeExplosion/smokeExplosion_00006.png",
+	"frame": {"x":1844,"y":812,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":350,"h":350}
+},
+{
+	"filename": "exports_animation/giantAttack_01/giantAttackOne_00000.png",
+	"frame": {"x":1152,"y":1379,"w":105,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":55,"w":105,"h":111},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_01/giantAttackOne_00001.png",
+	"frame": {"x":1140,"y":814,"w":95,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":31,"w":95,"h":127},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_01/giantAttackOne_00002.png",
+	"frame": {"x":1904,"y":323,"w":105,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":33,"w":105,"h":123},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_01/giantAttackOne_00003.png",
+	"frame": {"x":871,"y":1421,"w":107,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":35,"w":107,"h":121},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_01/giantAttackOne_00004.png",
+	"frame": {"x":901,"y":683,"w":93,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":14,"w":93,"h":143},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_01/giantAttackOne_00005.png",
+	"frame": {"x":1422,"y":935,"w":93,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":54,"w":93,"h":103},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_01/giantAttackOne_00006.png",
+	"frame": {"x":1517,"y":925,"w":93,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":52,"w":93,"h":105},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_01/giantAttackOne_00007.png",
+	"frame": {"x":964,"y":1312,"w":97,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":51,"w":97,"h":107},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_01/giantAttackOne_00008.png",
+	"frame": {"x":1223,"y":1040,"w":107,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":53,"w":107,"h":115},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_02/giantAttackTwo_00000.png",
+	"frame": {"x":855,"y":1306,"w":107,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":35,"w":107,"h":113},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_02/giantAttackTwo_00001.png",
+	"frame": {"x":1150,"y":1266,"w":105,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":34,"w":105,"h":111},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_02/giantAttackTwo_00002.png",
+	"frame": {"x":1332,"y":1040,"w":95,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":29,"w":95,"h":117},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_02/giantAttackTwo_00003.png",
+	"frame": {"x":980,"y":1421,"w":87,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":23,"w":87,"h":123},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_02/giantAttackTwo_00004.png",
+	"frame": {"x":1259,"y":1379,"w":93,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":26,"w":93,"h":121},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_02/giantAttackTwo_00005.png",
+	"frame": {"x":230,"y":1207,"w":139,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":36,"w":139,"h":111},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_02/giantAttackTwo_00006.png",
+	"frame": {"x":824,"y":576,"w":147,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":42,"w":147,"h":105},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_02/giantAttackTwo_00007.png",
+	"frame": {"x":1237,"y":814,"w":89,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":38,"w":89,"h":133},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_02/giantAttackTwo_00008.png",
+	"frame": {"x":1224,"y":683,"w":97,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":41,"w":97,"h":129},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantAttack_02/giantAttackTwo_00009.png",
+	"frame": {"x":746,"y":1307,"w":107,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":35,"w":107,"h":113},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalk/giantWalk_00000.png",
+	"frame": {"x":1404,"y":683,"w":75,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":35,"w":75,"h":125},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalk/giantWalk_00001.png",
+	"frame": {"x":1063,"y":1294,"w":85,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":37,"w":85,"h":125},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalk/giantWalk_00002.png",
+	"frame": {"x":1585,"y":794,"w":97,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":41,"w":97,"h":115},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalk/giantWalk_00003.png",
+	"frame": {"x":1580,"y":687,"w":111,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":39,"w":111,"h":105},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalk/giantWalk_00004.png",
+	"frame": {"x":1321,"y":1159,"w":121,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":37,"w":121,"h":109},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalk/giantWalk_00005.png",
+	"frame": {"x":619,"y":1307,"w":125,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":34,"w":125,"h":113},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalk/giantWalk_00006.png",
+	"frame": {"x":361,"y":1332,"w":129,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":33,"w":129,"h":113},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalk/giantWalk_00007.png",
+	"frame": {"x":1128,"y":1157,"w":127,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":31,"w":127,"h":107},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalk/giantWalk_00008.png",
+	"frame": {"x":1584,"y":584,"w":119,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":30,"w":119,"h":101},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalk/giantWalk_00009.png",
+	"frame": {"x":1620,"y":1141,"w":105,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":31,"w":105,"h":103},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalk/giantWalk_00010.png",
+	"frame": {"x":1444,"y":1157,"w":91,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":31,"w":91,"h":115},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalk/giantWalk_00011.png",
+	"frame": {"x":1502,"y":800,"w":81,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":33,"w":81,"h":123},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalk/giantWalk_00012.png",
+	"frame": {"x":769,"y":1066,"w":75,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":35,"w":75,"h":125},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkEast/giantWalkEast_00000.png",
+	"frame": {"x":764,"y":939,"w":75,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":35,"w":75,"h":125},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkEast/giantWalkEast_00001.png",
+	"frame": {"x":682,"y":1066,"w":85,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":37,"w":85,"h":125},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkEast/giantWalkEast_00002.png",
+	"frame": {"x":1481,"y":683,"w":97,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":41,"w":97,"h":115},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkEast/giantWalkEast_00003.png",
+	"frame": {"x":1789,"y":440,"w":111,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":39,"w":111,"h":105},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkEast/giantWalkEast_00004.png",
+	"frame": {"x":973,"y":1050,"w":121,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":37,"w":121,"h":109},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkEast/giantWalkEast_00005.png",
+	"frame": {"x":492,"y":1332,"w":125,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":34,"w":125,"h":113},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkEast/giantWalkEast_00006.png",
+	"frame": {"x":230,"y":1320,"w":129,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":33,"w":129,"h":113},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkEast/giantWalkEast_00007.png",
+	"frame": {"x":1100,"y":574,"w":127,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":31,"w":127,"h":107},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkEast/giantWalkEast_00008.png",
+	"frame": {"x":779,"y":818,"w":119,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":30,"w":119,"h":101},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkEast/giantWalkEast_00009.png",
+	"frame": {"x":1603,"y":1036,"w":105,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":31,"w":105,"h":103},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkEast/giantWalkEast_00010.png",
+	"frame": {"x":1429,"y":1040,"w":91,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":31,"w":91,"h":115},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkEast/giantWalkEast_00011.png",
+	"frame": {"x":1419,"y":810,"w":81,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":33,"w":81,"h":123},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkEast/giantWalkEast_00012.png",
+	"frame": {"x":683,"y":1422,"w":75,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":35,"w":75,"h":125},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkSouth/giantWalkSouth_00000.png",
+	"frame": {"x":1392,"y":370,"w":129,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":51,"w":129,"h":101},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkSouth/giantWalkSouth_00001.png",
+	"frame": {"x":1597,"y":479,"w":123,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":43,"w":123,"h":103},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkSouth/giantWalkSouth_00002.png",
+	"frame": {"x":1356,"y":574,"w":109,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":38,"w":109,"h":107},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkSouth/giantWalkSouth_00003.png",
+	"frame": {"x":1443,"y":1365,"w":95,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":38,"w":95,"h":115},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkSouth/giantWalkSouth_00004.png",
+	"frame": {"x":1354,"y":1373,"w":87,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":38,"w":87,"h":121},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkSouth/giantWalkSouth_00005.png",
+	"frame": {"x":1069,"y":1421,"w":81,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":40,"w":81,"h":123},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkSouth/giantWalkSouth_00006.png",
+	"frame": {"x":1612,"y":911,"w":79,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":40,"w":79,"h":123},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkSouth/giantWalkSouth_00007.png",
+	"frame": {"x":1537,"y":1157,"w":81,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":39,"w":81,"h":115},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkSouth/giantWalkSouth_00008.png",
+	"frame": {"x":1693,"y":690,"w":85,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":39,"w":85,"h":105},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkSouth/giantWalkSouth_00009.png",
+	"frame": {"x":1684,"y":797,"w":99,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":42,"w":99,"h":99},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkSouth/giantWalkSouth_00010.png",
+	"frame": {"x":1467,"y":582,"w":115,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":44,"w":115,"h":99},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkSouth/giantWalkSouth_00011.png",
+	"frame": {"x":1343,"y":473,"w":125,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":49,"w":125,"h":99},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkSouth/giantWalkSouth_00012.png",
+	"frame": {"x":230,"y":1435,"w":129,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":51,"w":129,"h":101},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkWest/giantWalkWest_00000.png",
+	"frame": {"x":512,"y":939,"w":123,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":25,"w":123,"h":133},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkWest/giantWalkWest_00001.png",
+	"frame": {"x":1328,"y":812,"w":89,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":21,"w":89,"h":145},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkWest/giantWalkWest_00002.png",
+	"frame": {"x":1222,"y":333,"w":63,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":20,"w":63,"h":147},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkWest/giantWalkWest_00003.png",
+	"frame": {"x":968,"y":1165,"w":73,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":21,"w":73,"h":145},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkWest/giantWalkWest_00004.png",
+	"frame": {"x":881,"y":1165,"w":85,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":23,"w":85,"h":139},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkWest/giantWalkWest_00005.png",
+	"frame": {"x":996,"y":683,"w":107,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":24,"w":107,"h":133},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkWest/giantWalkWest_00006.png",
+	"frame": {"x":1105,"y":683,"w":117,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":23,"w":117,"h":129},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkWest/giantWalkWest_00007.png",
+	"frame": {"x":760,"y":1422,"w":109,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":22,"w":109,"h":123},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkWest/giantWalkWest_00008.png",
+	"frame": {"x":1522,"y":1032,"w":79,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":18,"w":79,"h":123},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkWest/giantWalkWest_00009.png",
+	"frame": {"x":1323,"y":683,"w":79,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":19,"w":79,"h":127},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkWest/giantWalkWest_00010.png",
+	"frame": {"x":1043,"y":1161,"w":83,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":21,"w":83,"h":131},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkWest/giantWalkWest_00011.png",
+	"frame": {"x":1287,"y":331,"w":103,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":23,"w":103,"h":133},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/giantWalkWest/giantWalkWest_00012.png",
+	"frame": {"x":776,"y":683,"w":123,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":25,"w":123,"h":133},
+	"sourceSize": {"w":175,"h":175}
+},
+{
+	"filename": "exports_animation/goblinAttack/goblinAttackExport_00000.png",
+	"frame": {"x":1768,"y":1109,"w":49,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":10,"w":49,"h":59},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinAttack/goblinAttackExport_00001.png",
+	"frame": {"x":1785,"y":756,"w":57,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":9,"w":57,"h":57},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinAttack/goblinAttackExport_00002.png",
+	"frame": {"x":1971,"y":1044,"w":53,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":9,"w":53,"h":57},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinAttack/goblinAttackExport_00003.png",
+	"frame": {"x":1821,"y":1152,"w":49,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":9,"w":49,"h":57},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinAttack/goblinAttackExport_00004.png",
+	"frame": {"x":1152,"y":1492,"w":61,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":9,"w":61,"h":57},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkEast/goblinWalkEast_00000.png",
+	"frame": {"x":2001,"y":1214,"w":41,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":8,"w":41,"h":53},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkEast/goblinWalkEast_00001.png",
+	"frame": {"x":1999,"y":1371,"w":37,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":13,"w":37,"h":49},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkEast/goblinWalkEast_00002.png",
+	"frame": {"x":1960,"y":1263,"w":39,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":14,"w":39,"h":53},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkEast/goblinWalkEast_00003.png",
+	"frame": {"x":1788,"y":1333,"w":41,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":11,"w":41,"h":55},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkEast/goblinWalkEast_00004.png",
+	"frame": {"x":1743,"y":1390,"w":43,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":8,"w":43,"h":55},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkEast/goblinWalkEast_00005.png",
+	"frame": {"x":1872,"y":1305,"w":43,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":11,"w":43,"h":53},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkEast/goblinWalkEast_00006.png",
+	"frame": {"x":1770,"y":1498,"w":41,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":15,"w":41,"h":51},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkEast/goblinWalkEast_00007.png",
+	"frame": {"x":1960,"y":1318,"w":39,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":11,"w":39,"h":51},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkEast/goblinWalkEast_00008.png",
+	"frame": {"x":1917,"y":1263,"w":41,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":8,"w":41,"h":53},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkNorth/goblinWalkNorth_00000.png",
+	"frame": {"x":1876,"y":1360,"w":41,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":8,"w":41,"h":53},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkNorth/goblinWalkNorth_00001.png",
+	"frame": {"x":1960,"y":1371,"w":37,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":13,"w":37,"h":49},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkNorth/goblinWalkNorth_00002.png",
+	"frame": {"x":1831,"y":1319,"w":39,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":14,"w":39,"h":53},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkNorth/goblinWalkNorth_00003.png",
+	"frame": {"x":1788,"y":1276,"w":41,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":11,"w":41,"h":55},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkNorth/goblinWalkNorth_00004.png",
+	"frame": {"x":1743,"y":1333,"w":43,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":8,"w":43,"h":55},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkNorth/goblinWalkNorth_00005.png",
+	"frame": {"x":1872,"y":1250,"w":43,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":11,"w":43,"h":53},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkNorth/goblinWalkNorth_00006.png",
+	"frame": {"x":1788,"y":1445,"w":41,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":15,"w":41,"h":51},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkNorth/goblinWalkNorth_00007.png",
+	"frame": {"x":1919,"y":1318,"w":39,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":11,"w":39,"h":51},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkNorth/goblinWalkNorth_00008.png",
+	"frame": {"x":1788,"y":1390,"w":41,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":8,"w":41,"h":53},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkSouth/goblinWalkSouth_00000.png",
+	"frame": {"x":1872,"y":1197,"w":47,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":8,"w":47,"h":51},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkSouth/goblinWalkSouth_00001.png",
+	"frame": {"x":1743,"y":1276,"w":43,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":11,"w":43,"h":55},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkSouth/goblinWalkSouth_00002.png",
+	"frame": {"x":1919,"y":1371,"w":39,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":14,"w":39,"h":49},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkSouth/goblinWalkSouth_00003.png",
+	"frame": {"x":2001,"y":1322,"w":39,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":9,"w":39,"h":47},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkSouth/goblinWalkSouth_00004.png",
+	"frame": {"x":2001,"y":1269,"w":39,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":6,"w":39,"h":51},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkSouth/goblinWalkSouth_00005.png",
+	"frame": {"x":1831,"y":1262,"w":39,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":9,"w":39,"h":55},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkSouth/goblinWalkSouth_00006.png",
+	"frame": {"x":1813,"y":1498,"w":39,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":13,"w":39,"h":51},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkSouth/goblinWalkSouth_00007.png",
+	"frame": {"x":1831,"y":1374,"w":43,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":9,"w":43,"h":53},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkSouth/goblinWalkSouth_00008.png",
+	"frame": {"x":1978,"y":1159,"w":47,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":6,"w":47,"h":53},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkWest/goblinWalkWest_00000.png",
+	"frame": {"x":1876,"y":1415,"w":41,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":17,"w":41,"h":45},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkWest/goblinWalkWest_00001.png",
+	"frame": {"x":1302,"y":1502,"w":39,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":21,"w":39,"h":47},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkWest/goblinWalkWest_00002.png",
+	"frame": {"x":1321,"y":100,"w":35,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":22,"w":35,"h":43},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkWest/goblinWalkWest_00003.png",
+	"frame": {"x":1573,"y":327,"w":35,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":18,"w":35,"h":41},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkWest/goblinWalkWest_00004.png",
+	"frame": {"x":2011,"y":327,"w":35,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":15,"w":35,"h":45},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkWest/goblinWalkWest_00005.png",
+	"frame": {"x":2011,"y":231,"w":35,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":19,"w":35,"h":47},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkWest/goblinWalkWest_00006.png",
+	"frame": {"x":2011,"y":280,"w":35,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":21,"w":35,"h":45},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkWest/goblinWalkWest_00007.png",
+	"frame": {"x":1919,"y":1422,"w":39,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":19,"w":39,"h":45},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goblinWalkWest/goblinWalkWest_00008.png",
+	"frame": {"x":1259,"y":1502,"w":41,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":15,"w":41,"h":47},
+	"sourceSize": {"w":75,"h":75}
+},
+{
+	"filename": "exports_animation/goldStorage_emptying/goldStorage01.png",
+	"frame": {"x":562,"y":659,"w":212,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":23,"w":212,"h":196},
+	"sourceSize": {"w":234,"h":234}
+},
+{
+	"filename": "exports_animation/goldStorage_emptying/goldStorage02.png",
+	"frame": {"x":610,"y":461,"w":212,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":23,"w":212,"h":196},
+	"sourceSize": {"w":234,"h":234}
+},
+{
+	"filename": "exports_animation/goldStorage_emptying/goldStorage03.png",
+	"frame": {"x":1008,"y":333,"w":212,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":23,"w":212,"h":196},
+	"sourceSize": {"w":234,"h":234}
+},
+{
+	"filename": "exports_animation/goldStorage_emptying/goldStorage04.png",
+	"frame": {"x":610,"y":263,"w":212,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":23,"w":212,"h":196},
+	"sourceSize": {"w":234,"h":234}
+},
+{
+	"filename": "exports_animation/goldStorage_emptying/goldStorage05.png",
+	"frame": {"x":2,"y":1399,"w":162,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":71,"w":162,"h":120},
+	"sourceSize": {"w":234,"h":234}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "TestAtlas5.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1551},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0c6cad7d79764cc62905ae0505a36918:b952fac8381bc307ca7f200adeb75f55:da9aea3e5003ed7c58c9d1622bb56a98$"
+}
+}
